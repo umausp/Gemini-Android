@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GenLens</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Pick Image and Ask Anything</string>
+    <string name="label_prompt">Ask anything about the selected Image</string>
+    <string name="prompt_placeholder">Tell me what is special about this Image?</string>
+    <string name="image1_description">Blueberry cookies</string>
+    <string name="image2_description">Homemade bread</string>
+    <string name="image3_description">Red-velvet cupcake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
