@@ -1,10 +1,6 @@
 ```
 # Project Title
-
-[![Gemini Version](https://img.shields.io/badge/Gemini-vX.X.X-blue)](https://link_to_gemini_docs)
-[![Android SDK](https://img.shields.io/badge/Android%20SDK-XX-green)](https://developer.android.com/)
-[![Java Version](https://img.shields.io/badge/Java-XX-orange)](https://www.oracle.com/java/)
-
+Gemini Integration on Android Native
 ## Description
 
 Brief description of your project here.
@@ -29,5 +25,3 @@ Brief description of your project here.
 - MVVM Architecture
 
 ```
-
-Replace the placeholders like `Project Title`, `XX`, `Feature 1`, `your_username`, `your_project`, `https://gemini.example.com`, etc., with relevant information for your project. Additionally, you may want to add more sections or details based on your project's specific requirements.
